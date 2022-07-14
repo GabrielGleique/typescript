@@ -1,0 +1,2 @@
+# typescript
+iniciando no typescript
